@@ -10,4 +10,4 @@ tags:
   - shell
   - eggshell
 ---
-Eierschalen sind cooool
+Eierschalen sind cooool und das ist gut so!
