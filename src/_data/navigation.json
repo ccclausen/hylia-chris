@@ -18,6 +18,10 @@
     {
       "url": "/impressum",
       "text": "Impressum"
+    },
+    {
+      "text": "Datenschutz",
+      "url": "/datenschutz"
     }
   ]
 }
