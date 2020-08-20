@@ -22,6 +22,10 @@
     {
       "text": "Alter",
       "url": "/alter"
+    },
+    {
+      "text": "Neuer",
+      "url": "/neuer"
     }
   ]
 }
