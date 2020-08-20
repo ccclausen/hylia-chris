@@ -11,7 +11,7 @@
       "external": true
     },
     {
-      "text": "Example Contact Page",
+      "text": "Contact",
       "url": "/contact",
       "external": false
     },
@@ -22,6 +22,10 @@
     {
       "text": "Datenschutz",
       "url": "/datenschutz"
+    },
+    {
+      "text": "Alter",
+      "url": "/alter"
     }
   ]
 }
